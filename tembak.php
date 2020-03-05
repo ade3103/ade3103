@@ -2,14 +2,14 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("red"," ===========================\n");
-echo color("orange","| Claim Voucher Gojek|\n");
-echo color("orange","| Auto create Gojek X Redeem voucher |\n");
-echo color("orange","| github: ade3103 |\n");
-echo color("orange","| fanspage :ade3103|\n");
-echo color("orange","| Creator : 5U134R!          |\n");
-echo "color("green","| Version : Premium X pertalite      |\n";
-echo "color("blue","| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo "color("red"," ===========================\n";
+echo color("red","| Claim Voucher Gojek|\n");
+echo color("red","| Auto create Gojek X Redeem voucher |\n");
+echo color("red","| github: ade3103 |\n");
+echo color("red","| fanspage :ade3103|\n");
+echo color("red","| Creator : UneXpected!          |\n");
+echo "| Version : Premium X pertalite      |\n";
+echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
+echo " ===========================\n";
 
 // function change(){
         $nama = nama();
